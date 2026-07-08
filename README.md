@@ -6,4 +6,4 @@ O Bandit é um wargame: um jogo que te força a desenvolver habilidades para res
 O OverTheWire - Bandit te força a desenvolver comandos Linux dos mais básicos aos mais difíceis. O Bandit tem várias categorias: o Bandit é focada em Linux, mas também tem o Natas que foca em cibersegurança (que pretendo fazer no futuro).
 
 ## Repositórios Relacionados
-[redes](https://github.com/schnrdie/redes) — anotações de fundamentos de redes usadas como apoio nos desafios
+[Redes](https://github.com/schnrdie/redes) — anotações de fundamentos de redes usadas como apoio nos desafios
